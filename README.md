@@ -1,4 +1,5 @@
 ### Hi there 👋
+este proyecto es un proyecto ciudadano desarrollado por ciudadanos de Mexico en apoyo del LABNL que busca hacer conciencia del reciclaje y rehuso del plastico 
 
 <!--
 **plasticiclo/plasticiclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
